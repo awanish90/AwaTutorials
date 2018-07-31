@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="team_choice">
+        <item>Chelsea</item>
+        <item>Manchester United</item>
+        <item>Manchester City</item>
+        <item>Liverpool</item>
+        <item>Tottenham Hotspusr</item>
+    </string-array>
+    <string-array name="team_choice_la_liga">
+        <item>Barcelona</item>
+        <item>Real Madrid</item>
+        <item>Athletico Madrid</item>
+        <item>Sevilla</item>
+        <item>Valencia</item>
+    </string-array>
+</resources>

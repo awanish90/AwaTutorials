@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_dialog_demo_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="awa.com.awatutorials.activity.DialogDemoMainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/AlertDialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/round_button_bg"
+                android:padding="10dp"
+                android:text="Open Alert Dialogue"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/AlertDialogStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/round_button_bg"
+                android:padding="10dp"
+                android:text="Open Alert Dialogue Style"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/multipleChoiceDialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/round_button_bg"
+                android:padding="10dp"
+                android:text="Open Multiple choice Dialog"
+                android:textColor="@color/white" />
+            <Button
+                android:id="@+id/basicDialogFragment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/round_button_bg"
+                android:padding="10dp"
+                android:text="Open Basic Dialog Fragment"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/listDialogFragment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/round_button_bg"
+                android:padding="10dp"
+                android:text="Open List Dialog Fragment"
+                android:textColor="@color/white" />
+
+
+            <Button
+                android:id="@+id/customLayoutDialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/round_button_bg"
+                android:padding="10dp"
+                android:text="Open Custom Dialog"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/dialogInteraction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/round_button_bg"
+                android:padding="10dp"
+                android:text="Interacting With Dialogs"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/TimePickerDialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/round_button_bg"
+                android:padding="10dp"
+                android:text="Time Picker Dialog"
+                android:textColor="@color/white" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

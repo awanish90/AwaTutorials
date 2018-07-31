@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_color">#ccff33</color>
+    <color name="video_background">#16999d</color>
+    <color name="orange_camera">#eb5808</color>
+    <color name="badge_green">#00A4A9</color>
+    <color name="notification_bg">#CCEDED</color>
+    <color name="video_background2">#028e94</color>
+    <color name="progress_color">#11CFD5</color>
+    <color name="progress_bottom_color">#00A4A9 </color>
+    <color name="preselector_background_color">#262626</color>
+    <color name="white_with_60_aplpha">#99FFFFFF</color>
+    <color name="submit_btn_color">#4F4F4F</color>
+    <color name="nav_drawer_version_color">#19c4b9</color>
+    <color name="white_with_alpha_toolbar">#D9FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
